@@ -1,2 +1,2 @@
-# monkey_species10
-### For learning purpose only-
+# monkey species regression model
+## For learning purpose only
